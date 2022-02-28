@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
+name: Foguet Home Assistant add-on repository
 url: 'https://github.com/Foguet/addons-example'
-maintainer: Cayetano Sanchez <awesome@example.com>
+maintainer: Cayetano Sanchez <git@cayetanosm.es>
